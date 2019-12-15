@@ -35,6 +35,7 @@
     "Message ID notfound": "Id da mensagem não encontrado",
     "Unknown error": "Erro desconhecido",
     "Messages Sent": "Mensagem enviada",
+    "Message Sent": "Mensagem enviada",
     "Messages scheduled but Account Limit Reached": "Mensagens agendadas mas o limite da conta foi atingido",
     "File empty or not sent": "Arquivo vazio or não enviado",
     "File too large": "Arquivo muito longo",
